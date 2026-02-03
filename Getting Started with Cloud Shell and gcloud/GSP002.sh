@@ -20,7 +20,6 @@ echo "${CYAN}${BOLD}╔═══════════════════
 echo "${CYAN}${BOLD}         G STARTING NOW              ${RESET}"
 echo "${CYAN}${BOLD}╚════════════════════════════════════════════════════════╝${RESET}"
 echo
-echo "${MAGENTA}${BOLD}          Expert Tutorial by Dr. Abhishek              ${RESET}"
 echo "${YELLOW}For more GCP tutorials, visit: ${UNDERLINE}https://www.youtube.com/@techqwikcode${RESET}"
 echo
 echo "${BLUE}${BOLD}⚡ Initializing GCE Lab Instance Setup...${RESET}"
@@ -74,7 +73,6 @@ echo "${GREEN}${BOLD}╔══════════════════�
 echo "${GREEN}${BOLD}          GCE LAB  COMPLETED SUCCESSFULLY!          ${RESET}"
 echo "${GREEN}${BOLD}╚════════════════════════════════════════════════════════╝${RESET}"
 echo
-echo "${RED}${BOLD}🙏 Special thanks to Dr. Abhishek for this tutorial!${RESET}"
 echo "${YELLOW}${BOLD}📺 Subscribe for more GCP content:${RESET}"
 echo "${BLUE}${UNDERLINE}https://www.youtube.com/@techqwikcode${RESET}"
 echo
