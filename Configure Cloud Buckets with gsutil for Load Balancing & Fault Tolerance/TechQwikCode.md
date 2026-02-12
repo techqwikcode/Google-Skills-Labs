@@ -16,7 +16,7 @@
 
 ```bash
 curl -LO raw.githubusercontent.com/techqwikcode/Google-Skills-Labs/main/Configure%20Cloud%20Buckets%20with%20gsutil%20for%20Load%20Balancing%20%26%20Fault%20Tolerance/TechQwikCode.sh
-sudo chmod +x TechQwikCode.sh 
+chmod +x TechQwikCode.sh 
 ./TechQwikCode.sh
 ```
 
