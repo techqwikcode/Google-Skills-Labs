@@ -1,4 +1,4 @@
-# 🌐 Google Kubernetes Engine: Qwik Start || GSP100 🚀 [![Open Lab](https://img.shields.io/badge/Open-Lab-blue?style=flat)](https://www.skills.google/games/7012/labs/43603)
+# 🌐 Configure Cloud CDN for Storage using gcloud 🚀 [![Open Lab](https://img.shields.io/badge/Open-Lab-blue?style=flat)](https://www.skills.google/games/7012/labs/43603)
 
 ## ⚠️ Disclaimer ⚠️
 
