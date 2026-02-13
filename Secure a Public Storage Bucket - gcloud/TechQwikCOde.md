@@ -1,4 +1,4 @@
-# 🌐 Get Started with Cloud shell and gcloud || GSP002 🚀 [![Open Lab](https://img.shields.io/badge/Open-Lab-blue?style=flat)](https://www.skills.google/games/7012/labs/43604)
+# 🌐 Secure a Public Storage Bucket 🚀 [![Open Lab](https://img.shields.io/badge/Open-Lab-blue?style=flat)](https://www.skills.google/games/7012/labs/43604)
 
 ## ⚠️ Disclaimer ⚠️
 
