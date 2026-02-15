@@ -1,4 +1,4 @@
-# 🌐 Google Kubernetes Engine: Qwik Start || GSP100 🚀 [![Open Lab](https://img.shields.io/badge/Open-Lab-blue?style=flat)](https://www.skills.google/course_templates/744/labs/582693)
+# 🌐 Modify VM Instance for Cost Optimization 🚀 [![Open Lab](https://img.shields.io/badge/Open-Lab-blue?style=flat)](https://www.skills.google/games/7028/labs/43719)
 
 ## ⚠️ Disclaimer ⚠️
 
