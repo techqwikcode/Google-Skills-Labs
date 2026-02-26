@@ -12,7 +12,7 @@
 
 <div style="padding: 15px; margin: 10px 0;">
 
-## ☁️ Run in Cloud Shell:
+## ☁️ Run in Shell:
 
 ```
 gcloud compute firewall-rules delete critical-fw-rule --quiet 2>/dev/null; gcloud compute firewall-rules create critical-fw-rule --network=client-vpc --direction=INGRESS --priority=1000 --action=DENY --rules=tcp:80,tcp:22 --target-tags=compromised-vm --enable-logging 
