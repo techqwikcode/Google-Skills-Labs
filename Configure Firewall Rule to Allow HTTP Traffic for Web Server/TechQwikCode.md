@@ -1,4 +1,4 @@
-# 🌐 Create Firewall Rule to Enable SSH Access || 🚀 [![Open Lab](https://img.shields.io/badge/Open-Lab-blue?style=flat)](https://www.skills.google/games/7027/labs/43696)
+# 🌐 Configure Firewall Rule to Allow HTTP Traffic for Web Server || 🚀 [![Open Lab](https://img.shields.io/badge/Open-Lab-blue?style=flat)](https://www.skills.google/games/7027/labs/43696)
 
 ## ⚠️ Disclaimer ⚠️
 
